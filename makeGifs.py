@@ -10,9 +10,9 @@ import pysrt
 import random
 import subprocess
 
-sub_files = {   4: 'subs/IV-A.New.Hope[1977]DvDrip-aXXo.srt',
-				5: 'subs/V-The.Empire.Strikes.Back[1980]DvDrip-aXXo.srt',
-				6: 'subs/VI-Return.Of.The.Jedi[1983]DvDrip-aXXo.srt' }
+sub_files = {   1: 'subs/Star.Wars.Episode.I.srt',
+				2: 'subs/Star.Wars.Episode.II.srt',
+				3: 'subs/Star.Wars.Episode.III.srt' }
 
 def striptags(data):
 	# I'm a bad person, don't ever do this.
@@ -152,5 +152,5 @@ def makeGif(source, sub_index, rand=False, no_quote=False, custom_subtitle="", f
 
 if __name__ == '__main__':
 	# by default we create a random gif
-	makeGif(random.randint(4,6), 0, rand=True, no_quote=bool(random.getrandbits(1)))
+    makeGif(random.randint(1,3), 0, rand=True, no_quote=bool(random.getrandbits(1)))
 

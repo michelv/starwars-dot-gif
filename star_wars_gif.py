@@ -4,13 +4,13 @@ import urwid
 import pysrt
 from makeGifs import makeGif
 
-choices = [ { 'name': "Star Wars: A New Hope", 'num': 4 },
-			{ 'name': "Star Wars: The Empire Strikes Back", 'num': 5 },
-			{ 'name': "Star Wars: Return of the Jedi", 'num': 6 } ]
+choices = [ { 'name': "Star Wars: The Phantom Menace", 'num': 1 },
+			{ 'name': "Star Wars: Attack of the Clones", 'num': 2 },
+			{ 'name': "Star Wars: Revenge of the Sith", 'num': 3 } ]
 
-sub_files = {   4: 'subs/IV-A.New.Hope[1977]DvDrip-aXXo.srt',
-				5: 'subs/V-The.Empire.Strikes.Back[1980]DvDrip-aXXo.srt',
-				6: 'subs/VI-Return.Of.The.Jedi[1983]DvDrip-aXXo.srt' }
+sub_files = {   1: 'subs/Star.Wars.Episode.I.srt',
+				2: 'subs/Star.Wars.Episode.II.srt',
+				3: 'subs/Star.Wars.Episode.III.srt' }
 
 source = 0
 index = 0
