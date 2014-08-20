@@ -25,7 +25,7 @@ t = Tumblpy(
 )
 
 while True:
-	quote = makeGif(random.randint(4,6), 0, rand=True, frames=20)
+	quote = makeGif(random.randint(1,3), 0, rand=True, frames=20)
 	quote = ' '.join(quote)
 
 	# reduce amount of colors, because tumblr sucks
