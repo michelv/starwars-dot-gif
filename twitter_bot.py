@@ -26,8 +26,15 @@ headers = {"Authorization": "Client-ID " + CLIENT_ID}
 url = "https://api.imgur.com/3/upload.json"
 
 while True:
-	quote = makeGif(random.randint(1,3), 0, rand=True)
-	quote = ' '.join(quote)
+	successful = False
+	while not successful:
+		try:
+			quote = makeGif(random.randint(1,3), 0, rand=True)
+			quote = ' '.join(quote)
+			successful = True
+		except:
+			print "error generating gif"
+
 
 	# first pass reduce the amount of colors
 	if(os.path.getsize('star_wars.gif') > 2097152):
