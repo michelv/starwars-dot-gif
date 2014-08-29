@@ -1,4 +1,4 @@
-﻿1
+1
 00:03:06,103 --> 00:03:08,943
 - Lock onto him, R2.
 
@@ -50,7 +50,7 @@ No.
 
 13
 00:04:14,921 --> 00:04:17,671
-No, they are doing theirjob so we can do ours.
+No, they are doing their job so we can do ours.
 
 14
 00:04:31,605 --> 00:04:34,185
@@ -107,7 +107,7 @@ They're shutting down all the controls.
 26
 00:05:49,599 --> 00:05:53,479
 Get to the command ship. Get the chancellor.
-I'm running out oftricks here.
+I'm running out of tricks here.
 
 27
 00:05:56,356 --> 00:06:00,646
@@ -189,7 +189,7 @@ is coming from right there—
 45
 00:08:08,321 --> 00:08:11,411
 the observation platform
-at the top ofthat spire.
+at the top of that spire.
 
 46
 00:08:11,491 --> 00:08:13,411
@@ -219,7 +219,7 @@ What's the situation, Captain?
 
 52
 00:08:43,690 --> 00:08:47,650
-TwoJedi have landed in the main hangar bay.
+Two Jedi have landed in the main hangar bay.
 We're tracking them.
 
 53
@@ -245,7 +245,7 @@ Roger, roger.
 
 58
 00:09:18,850 --> 00:09:20,770
-Those areJedi fighters all right.
+Those are Jedi fighters all right.
 
 59
 00:09:25,398 --> 00:09:27,398
@@ -367,7 +367,7 @@ Well, R2 has been-
 
 87
 00:11:06,750 --> 00:11:09,670
-Uh, no loose wirejokes.
+Uh, no loose wire jokes.
 Did I say anything?
 
 88
@@ -405,8 +405,8 @@ Your swords, please.
 
 95
 00:12:20,865 --> 00:12:24,365
-We don't want to make a mess ofthings
-in front ofthe chancellor.
+We don't want to make a mess of things
+in front of the chancellor.
 
 96
 00:12:24,452 --> 00:12:26,702
@@ -476,12 +476,12 @@ Yes, but he was an unarmed prisoner.
 112
 00:14:45,343 --> 00:14:48,223
 I shouldn't have done that.
-It's not theJedi way.
+It's not the Jedi way.
 
 113
 00:14:48,304 --> 00:14:53,484
 It is only natural.
-He cut offyour arm, and you wanted revenge.
+He cut off your arm, and you wanted revenge.
 
 114
 00:14:53,559 --> 00:14:56,599
@@ -503,12 +503,12 @@ Anakin, there's no time.
 
 118
 00:15:14,330 --> 00:15:17,580
-We must get offthis ship before it's too late.
+We must get off this ship before it's too late.
 
 119
 00:15:17,667 --> 00:15:21,707
 - He seems to be all right.
-- Leave him, orwe'll never make it.
+- Leave him, or we'll never make it.
 
 120
 00:15:21,796 --> 00:15:24,506
@@ -553,7 +553,7 @@ Oh!
 
 130
 00:17:09,612 --> 00:17:11,782
-Easy. We're in a bit ofa situation here.
+Easy. We're in a bit of a situation here.
 
 131
 00:17:11,906 --> 00:17:14,526
@@ -575,7 +575,7 @@ Too late.Jump!
 
 135
 00:17:34,554 --> 00:17:38,184
-Let's see ifwe can find something
+Let's see if we can find something
 in the hangar bay that's still flyable.
 
 136
@@ -588,7 +588,7 @@ R2, do you copy?
 
 138
 00:17:46,691 --> 00:17:49,401
-General, we found theJedi.
+General, we found the Jedi.
 
 139
 00:17:49,527 --> 00:17:53,987
@@ -643,7 +643,7 @@ Ah, yes. The negotiator.
 
 151
 00:18:43,998 --> 00:18:48,248
-General Kenobi. We've been waiting foryou.
+General Kenobi. We've been waiting for you.
 
 152
 00:18:48,336 --> 00:18:50,496
@@ -651,7 +651,7 @@ Excuse me.
 
 153
 00:18:50,588 --> 00:18:53,378
-That wasn't much ofa rescue.
+That wasn't much of a rescue.
 You're welcome.
 
 154
@@ -754,7 +754,7 @@ Grievous. Can you fly a cruiser like this?
 176
 00:21:35,419 --> 00:21:38,459
 You mean, do I know how to land
-what's left ofthis thing?
+what's left of this thing?
 Well?
 
 177
@@ -777,7 +777,7 @@ Extend all flaps and drag fins.
 
 181
 00:22:07,034 --> 00:22:09,544
-Not to worry. We are still flying halfa ship.
+Not to worry. We are still flying half a ship.
 
 182
 00:22:12,790 --> 00:22:16,790
@@ -852,7 +852,7 @@ carrying me unconscious on your back.
 
 198
 00:24:29,927 --> 00:24:32,467
-All because ofyour training.
+All because of your training.
 
 199
 00:24:32,555 --> 00:24:36,095
@@ -883,7 +883,7 @@ Chancellor Palpatine, are you all right?
 
 205
 00:24:57,746 --> 00:25:00,666
-Yes. Thanks to your twoJedi knights.
+Yes. Thanks to your two Jedi knights.
 
 206
 00:25:00,749 --> 00:25:05,459
@@ -898,7 +898,7 @@ as he always does. He's a coward.
 208
 00:25:09,174 --> 00:25:13,514
 But with Count Dooku dead,
-he is the leader ofthe droid army.
+he is the leader of the droid army.
 
 209
 00:25:13,596 --> 00:25:19,346
@@ -907,7 +907,7 @@ to continue the war as long as Grievous is alive.
 
 210
 00:25:19,435 --> 00:25:23,515
-Then theJedi Council
+Then the Jedi Council
 will make finding Grievous our highest priority.
 
 211
@@ -922,7 +922,7 @@ The Republic cannot praise you enough.
 
 213
 00:25:30,070 --> 00:25:32,160
-Thankyou, Senator Organa.
+Thank you, Senator Organa.
 
 214
 00:25:32,281 --> 00:25:35,831
@@ -974,7 +974,7 @@ It feels like we've been apart for a lifetime.
 225
 00:26:19,161 --> 00:26:22,001
 And it might have been,
-ifthe chancellor hadn't been kidnapped.
+if the chancellor hadn't been kidnapped.
 
 226
 00:26:22,081 --> 00:26:25,331
@@ -988,8 +988,8 @@ Yes, here.
 
 228
 00:26:28,295 --> 00:26:31,795
-I'm- I'm tired ofall this deception.
-I don't care ifthey know we're married.
+I'm- I'm tired of all this deception.
+I don't care if they know we're married.
 
 229
 00:26:31,882 --> 00:26:34,182
@@ -1055,7 +1055,7 @@ It will be done, my lord.
 
 244
 00:28:48,727 --> 00:28:53,017
-The end ofthe war is near, General.
+The end of the war is near, General.
 
 245
 00:28:53,107 --> 00:28:56,727
@@ -1071,7 +1071,7 @@ Soon I will have a new apprentice-
 
 248
 00:29:05,494 --> 00:29:10,794
-one faryounger and more powerful.
+one far younger and more powerful.
 
 249
 00:29:37,776 --> 00:29:40,816
@@ -1208,7 +1208,7 @@ to serve in the senate.
 
 281
 00:32:55,223 --> 00:32:57,983
-And ifthe council discovers
+And if the council discovers
 you're the father, you'll be expelled-
 
 282
@@ -1246,7 +1246,7 @@ Death.
 
 290
 00:33:44,022 --> 00:33:48,442
-Yourselfyou speak of, or someone you know?
+Yourself you speak of, or someone you know?
 
 291
 00:33:49,903 --> 00:33:51,953
@@ -1272,7 +1272,7 @@ The fear of loss is a path to the dark side.
 296
 00:34:07,963 --> 00:34:11,263
 I won't let these visions
-come true, MasterYoda.
+come true, Master Yoda.
 
 297
 00:34:11,341 --> 00:34:14,551
@@ -1289,11 +1289,11 @@ Mourn them, do not. Miss them, do not.
 
 300
 00:34:22,811 --> 00:34:25,941
-Attachment leads tojealousy.
+Attachment leads to jealousy.
 
 301
 00:34:26,022 --> 00:34:29,482
-The shadow ofgreed that is.
+The shadow of greed that is.
 
 302
 00:34:29,568 --> 00:34:32,398
@@ -1301,11 +1301,11 @@ What must I do, Master Yoda?
 
 303
 00:34:32,487 --> 00:34:35,567
-Train yourselfto let go...
+Train yourself to let go...
 
 304
 00:34:35,657 --> 00:34:39,117
-ofeverything you fear to lose.
+of everything you fear to lose.
 
 305
 00:34:49,504 --> 00:34:52,264
@@ -1350,11 +1350,11 @@ It'll make it easier for us to end this war.
 
 314
 00:35:22,412 --> 00:35:24,752
-Be careful ofyour friend Palpatine.
+Be careful of your friend Palpatine.
 
 315
 00:35:26,374 --> 00:35:28,254
-Be careful ofwhat?
+Be careful of what?
 
 316
 00:35:28,376 --> 00:35:30,996
@@ -1369,7 +1369,7 @@ He didn't inform the council?
 318
 00:35:35,884 --> 00:35:39,354
 That's unusual, isn't it?
-All ofthis is unusual.
+All of this is unusual.
 
 319
 00:35:39,429 --> 00:35:41,889
@@ -1381,7 +1381,7 @@ I hope you trust me, Anakin.
 
 321
 00:35:58,865 --> 00:36:01,025
-Ofcourse.
+Of course.
 
 322
 00:36:02,160 --> 00:36:04,080
@@ -1394,12 +1394,12 @@ What do you mean?
 324
 00:36:07,332 --> 00:36:12,552
 I'm depending on you.
-Forwhat? I don't understand.
+For what? I don't understand.
 
 325
 00:36:12,629 --> 00:36:18,219
 To be the eyes, ears
-and voice ofthe Republic.
+and voice of the Republic.
 
 326
 00:36:18,301 --> 00:36:20,471
@@ -1408,7 +1408,7 @@ Anakin,
 327
 00:36:20,554 --> 00:36:24,724
 I'm appointing you to be my personal
-representative on theJedi Council.
+representative on the Jedi Council.
 
 328
 00:36:24,808 --> 00:36:28,098
@@ -1520,7 +1520,7 @@ Good relations with the Wookiees I have.
 353
 00:38:10,664 --> 00:38:15,004
 It's settled then.
-Yoda will take a battalion ofclones...
+Yoda will take a battalion of clones...
 
 354
 00:38:15,085 --> 00:38:17,415
@@ -1542,7 +1542,7 @@ and not make me a master?
 358
 00:38:27,055 --> 00:38:29,805
 It's never been done
-in the history oftheJedi. It's insulting.
+in the history of the Jedi. It's insulting.
 
 359
 00:38:29,891 --> 00:38:32,811
@@ -1556,7 +1556,7 @@ it's never happened before.
 
 361
 00:38:37,023 --> 00:38:40,443
-The fact ofthe matter is
+The fact of the matter is
 you are too close to the chancellor.
 
 362
@@ -1637,7 +1637,7 @@ ever since I arrived here.
 
 378
 00:39:44,048 --> 00:39:46,178
-That is whyyou must help us.
+That is why you must help us.
 
 379
 00:39:46,259 --> 00:39:49,759
@@ -1661,7 +1661,7 @@ Something is out of place.
 383
 00:39:58,980 --> 00:40:03,570
 You're asking me
-to do something against theJedi code,
+to do something against the Jedi code,
 
 384
 00:40:03,651 --> 00:40:07,401
@@ -1727,12 +1727,12 @@ I hope right you are.
 398
 00:41:23,523 --> 00:41:28,903
 Sometimes I wonder
-what's happening to theJedi order.
+what's happening to the Jedi order.
 
 399
 00:41:28,987 --> 00:41:32,067
 I think this war is destroying
-the principles ofthe Republic.
+the principles of the Republic.
 
 400
 00:41:33,908 --> 00:41:37,118
@@ -1745,7 +1745,7 @@ What do you mean?
 
 402
 00:41:39,789 --> 00:41:44,419
-What ifthe democracy we thought
+What if the democracy we thought
 we were serving no longer exists,
 
 403
@@ -1782,7 +1782,7 @@ Don't ask me to do that.
 410
 00:42:07,108 --> 00:42:10,778
 Make a motion in the senate,
-where that kind ofa request belongs.
+where that kind of a request belongs.
 
 411
 00:42:10,862 --> 00:42:13,702
@@ -1841,7 +1841,7 @@ and end this war.
 423
 00:43:33,403 --> 00:43:36,783
 I would worry about
-the collective wisdom ofthe council...
+the collective wisdom of the council...
 
 424
 00:43:36,864 --> 00:43:39,284
@@ -1866,11 +1866,11 @@ Anakin,
 429
 00:44:03,141 --> 00:44:07,601
 you know I'm not able
-to rely on theJedi Council.
+to rely on the Jedi Council.
 
 430
 00:44:09,355 --> 00:44:13,565
-Ifthey haven't included you
+If they haven't included you
 in their plot, they soon will.
 
 431
@@ -1883,7 +1883,7 @@ You must sense what I have come to suspect.
 
 433
 00:44:19,657 --> 00:44:23,077
-TheJedi Council want control ofthe Republic.
+The Jedi Council want control of the Republic.
 
 434
 00:44:24,412 --> 00:44:26,912
@@ -1950,16 +1950,16 @@ All who gain power are afraid to lose it.
 
 449
 00:45:26,057 --> 00:45:30,727
-Even theJedi.
-TheJedi use their power for good.
+Even the Jedi.
+The Jedi use their power for good.
 
 450
 00:45:30,812 --> 00:45:32,982
-Good is a point ofview, Anakin.
+Good is a point of view, Anakin.
 
 451
 00:45:33,064 --> 00:45:38,284
-The Sith and theJedi
+The Sith and the Jedi
 are similar in almost every way,
 
 452
@@ -1977,11 +1977,11 @@ They think inwards- only about themselves.
 
 455
 00:45:51,666 --> 00:45:53,916
-And theJedi don't?
+And the Jedi don't?
 
 456
 00:45:54,001 --> 00:45:58,591
-TheJedi are selfless.
+The Jedi are selfless.
 They only care about others.
 
 457
@@ -1996,7 +1996,7 @@ I thought not.
 
 459
 00:46:20,528 --> 00:46:22,948
-It's not a story theJedi would tell you.
+It's not a story the Jedi would tell you.
 
 460
 00:46:24,365 --> 00:46:26,735
@@ -2008,7 +2008,7 @@ Darth Plagueis...
 
 462
 00:46:28,828 --> 00:46:34,498
-was a dark lord ofthe Sith
+was a dark lord of the Sith
 so powerful and so wise,
 
 463
@@ -2022,7 +2022,7 @@ to create... life.
 
 465
 00:46:44,385 --> 00:46:47,465
-He had such a knowledge ofthe dark side,
+He had such a knowledge of the dark side,
 
 466
 00:46:47,555 --> 00:46:52,595
@@ -2038,7 +2038,7 @@ He could actually... save people from death?
 
 469
 00:47:02,820 --> 00:47:08,120
-The dark side ofthe Force
+The dark side of the Force
 is a pathway to many abilities...
 
 470
@@ -2055,7 +2055,7 @@ He became so powerful,
 
 473
 00:47:19,837 --> 00:47:22,837
-the only thing he was afraid ofwas...
+the only thing he was afraid of was...
 
 474
 00:47:22,924 --> 00:47:24,844
@@ -2063,7 +2063,7 @@ losing his power.
 
 475
 00:47:24,926 --> 00:47:28,386
-Which eventually, ofcourse, he did.
+Which eventually, of course, he did.
 
 476
 00:47:28,471 --> 00:47:34,351
@@ -2192,7 +2192,7 @@ Master.
 504
 00:50:30,611 --> 00:50:35,821
 I've disappointed you. Uh, I haven't been
-very appreciative ofyour training.
+very appreciative of your training.
 
 505
 00:50:35,908 --> 00:50:40,328
@@ -2200,12 +2200,12 @@ I've been arrogant, and I apologize.
 
 506
 00:50:40,413 --> 00:50:42,793
-I'vejust been so frustrated with the council.
+I've just been so frustrated with the council.
 
 507
 00:50:46,085 --> 00:50:49,835
 You are strong and wise, Anakin,
-and I am very proud ofyou.
+and I am very proud of you.
 
 508
 00:50:49,922 --> 00:50:52,552
@@ -2217,7 +2217,7 @@ I have taught you everything I know.
 
 510
 00:50:54,844 --> 00:50:58,604
-And you have become a far greaterJedi
+And you have become a far greater Jedi
 than I could ever hope to be.
 
 511
@@ -2240,7 +2240,7 @@ May the Force be with you.
 
 515
 00:51:41,682 --> 00:51:46,232
-Fortunately, most ofthe cities
+Fortunately, most of the cities
 are concentrated on this small continent here.
 
 516
@@ -2294,7 +2294,7 @@ He's worried about you.
 527
 00:52:57,967 --> 00:53:01,927
 He says you've been
-under a lot ofstress.
+under a lot of stress.
 
 528
 00:53:02,012 --> 00:53:04,812
@@ -2318,7 +2318,7 @@ Something's happening.
 
 533
 00:53:20,781 --> 00:53:23,451
-I'm not theJedi I should be.
+I'm not the Jedi I should be.
 
 534
 00:53:25,786 --> 00:53:27,746
@@ -2330,7 +2330,7 @@ And I know I shouldn't.
 
 536
 00:53:32,960 --> 00:53:34,960
-You expect too much ofyourself.
+You expect too much of yourself.
 
 537
 00:53:38,924 --> 00:53:42,144
@@ -2360,7 +2360,7 @@ No, I promise you.
 
 543
 00:54:38,567 --> 00:54:40,987
-Greetings, youngJedi.
+Greetings, young Jedi.
 
 544
 00:54:41,070 --> 00:54:44,530
@@ -2404,7 +2404,7 @@ Tell your people to take shelter.
 
 553
 00:55:22,403 --> 00:55:25,413
-Ifyou have warriors, now is the time.
+If you have warriors, now is the time.
 
 554
 00:55:36,291 --> 00:55:40,501
@@ -2419,7 +2419,7 @@ He didn't say.
 556
 00:56:28,886 --> 00:56:34,136
 It won't be long before the armies
-ofthe Republic track us here.
+of the Republic track us here.
 
 557
 00:56:36,727 --> 00:56:41,977
@@ -2479,7 +2479,7 @@ Back away.
 
 570
 00:58:06,567 --> 00:58:10,527
-I will deal with thisJedi slime myself.
+I will deal with this Jedi slime myself.
 
 571
 00:58:10,612 --> 00:58:12,822
@@ -2509,7 +2509,7 @@ Let's go, let's go, let's go.
 
 577
 00:59:31,401 --> 00:59:33,321
-Coveryourself. Come on.
+Cover yourself. Come on.
 
 578
 00:59:38,450 --> 00:59:41,450
@@ -2559,7 +2559,7 @@ and we have begun our attack.
 
 589
 01:01:09,166 --> 01:01:11,576
-Thankyou, Commander.
+Thank you, Commander.
 
 590
 01:01:11,668 --> 01:01:14,838
@@ -2576,11 +2576,11 @@ Yes, Master.
 
 593
 01:01:26,516 --> 01:01:29,806
-I sense a plot to destroy theJedi.
+I sense a plot to destroy the Jedi.
 
 594
 01:01:29,895 --> 01:01:32,515
-The dark side ofthe Force
+The dark side of the Force
 surrounds the chancellor.
 
 595
@@ -2594,8 +2594,8 @@ then he should be removed from office.
 
 597
 01:01:39,738 --> 01:01:43,408
-TheJedi Council
-would have to take control ofthe senate...
+The Jedi Council
+would have to take control of the senate...
 
 598
 01:01:43,492 --> 01:01:45,662
@@ -2604,7 +2604,7 @@ in order to secure a peaceful transition.
 599
 01:01:45,744 --> 01:01:50,214
 To a dark place
-this line ofthought will carry us.
+this line of thought will carry us.
 
 600
 01:01:50,290 --> 01:01:55,960
@@ -2616,7 +2616,7 @@ Chancellor.
 
 602
 01:02:04,262 --> 01:02:06,812
-We'vejust received
+We've just received
 a report from Master Kenobi.
 
 603
@@ -2672,23 +2672,23 @@ They see your future.
 
 615
 01:02:55,188 --> 01:03:00,148
-They knowyour power
+They know your power
 will be too strong to control.
 
 616
 01:03:00,235 --> 01:03:06,025
 You must break through the fog of lies
-theJedi have created around you.
+the Jedi have created around you.
 
 617
 01:03:07,325 --> 01:03:11,445
 Let me help you to know
-the subtleties ofthe Force.
+the subtleties of the Force.
 
 618
 01:03:11,538 --> 01:03:14,328
 How do you know
-the ways ofthe Force?
+the ways of the Force?
 
 619
 01:03:14,416 --> 01:03:19,126
@@ -2696,7 +2696,7 @@ My mentor taught me everything about the Force.
 
 620
 01:03:19,212 --> 01:03:22,212
-Even the nature ofthe dark side.
+Even the nature of the dark side.
 
 621
 01:03:24,176 --> 01:03:26,506
@@ -2708,7 +2708,7 @@ Anakin,
 
 623
 01:03:29,139 --> 01:03:32,469
-ifone is to understand the great mystery,
+if one is to understand the great mystery,
 
 624
 01:03:32,559 --> 01:03:35,139
@@ -2716,21 +2716,21 @@ one must study all its aspects,
 
 625
 01:03:35,228 --> 01:03:38,188
-notjust the dogmatic narrow view oftheJedi.
+not just the dogmatic narrow view of the Jedi.
 
 626
 01:03:38,273 --> 01:03:42,113
-Ifyou wish to become
+If you wish to become
 a complete and wise leader,
 
 627
 01:03:42,194 --> 01:03:45,864
 you must embrace
-a largerview ofthe Force.
+a larger view of the Force.
 
 628
 01:03:45,947 --> 01:03:48,567
-Be careful oftheJedi, Anakin.
+Be careful of the Jedi, Anakin.
 
 629
 01:03:48,658 --> 01:03:50,868
@@ -2738,11 +2738,11 @@ Only through me...
 
 630
 01:03:50,952 --> 01:03:54,832
-can you achieve a power greater than anyJedi.
+can you achieve a power greater than any Jedi.
 
 631
 01:03:54,915 --> 01:03:58,245
-Learn to know the dark side ofthe Force,
+Learn to know the dark side of the Force,
 
 632
 01:03:58,335 --> 01:04:01,995
@@ -2771,7 +2771,7 @@ Listen to me.
 
 638
 01:04:18,855 --> 01:04:23,435
-Don't continue to be a pawn oftheJedi Council.
+Don't continue to be a pawn of the Jedi Council.
 
 639
 01:04:25,570 --> 01:04:29,030
@@ -2780,15 +2780,15 @@ you've been searching for a life...
 
 640
 01:04:29,115 --> 01:04:31,695
-greater than that ofan ordinaryJedi.
+greater than that of an ordinary Jedi.
 
 641
 01:04:31,785 --> 01:04:34,195
-A life ofsignificance,
+A life of significance,
 
 642
 01:04:34,287 --> 01:04:36,657
-ofconscience.
+of conscience.
 
 643
 01:04:40,794 --> 01:04:45,094
@@ -2814,17 +2814,17 @@ makes you stronger.
 648
 01:05:03,984 --> 01:05:08,114
 I'm going to turn you over
-to theJedi Council.
-Ofcourse. You should.
+to the Jedi Council.
+Of course. You should.
 
 649
 01:05:08,196 --> 01:05:11,236
 But you're not sure
-oftheir intentions, are you?
+of their intentions, are you?
 
 650
 01:05:11,324 --> 01:05:14,914
-I will quickly discover the truth ofall this.
+I will quickly discover the truth of all this.
 
 651
 01:05:14,995 --> 01:05:17,405
@@ -2832,7 +2832,7 @@ You have great wisdom, Anakin.
 
 652
 01:05:17,497 --> 01:05:21,167
-Know the power ofthe dark side.
+Know the power of the dark side.
 
 653
 01:05:21,251 --> 01:05:24,041
@@ -2852,7 +2852,7 @@ Master Windu, I must talk to you.
 
 657
 01:07:43,351 --> 01:07:47,441
-Skywalker, wejust received word
+Skywalker, we just received word
 that Obi-Wan has destroyed General Grievous.
 
 658
@@ -2863,7 +2863,7 @@ returns emergency power back to the senate.
 659
 01:07:51,568 --> 01:07:55,318
 He won't give up his power.
-I'vejust learned a terrible truth.
+I've just learned a terrible truth.
 
 660
 01:07:55,405 --> 01:07:58,525
@@ -2880,7 +2880,7 @@ Yes. The one we've been looking for.
 663
 01:08:03,621 --> 01:08:07,581
 How do you know this?
-He knows the ways ofthe Force.
+He knows the ways of the Force.
 
 664
 01:08:07,667 --> 01:08:09,787
@@ -2893,12 +2893,12 @@ Absolutely.
 
 666
 01:08:14,174 --> 01:08:16,434
-Then ourworst fears have been realized.
+Then our worst fears have been realized.
 
 667
 01:08:16,509 --> 01:08:20,009
 We must move quickly
-iftheJedi order is to survive.
+if the Jedi order is to survive.
 
 668
 01:08:20,096 --> 01:08:22,556
@@ -2907,20 +2907,20 @@ Master, the chancellor is very powerful.
 669
 01:08:22,640 --> 01:08:24,930
 You'll need my help
-ifyou're going to arrest him.
+if you're going to arrest him.
 
 670
 01:08:25,018 --> 01:08:27,978
-Foryou own good, stay out ofthis affair.
+For you own good, stay out of this affair.
 
 671
 01:08:28,062 --> 01:08:30,862
-I sense a great deal ofconfusion in you,
+I sense a great deal of confusion in you,
 young Skywalker.
 
 672
 01:08:30,940 --> 01:08:33,070
-There is much fear that clouds yourjudgment.
+There is much fear that clouds your judgment.
 
 673
 01:08:33,193 --> 01:08:35,403
@@ -2929,7 +2929,7 @@ No.
 
 674
 01:08:37,363 --> 01:08:39,363
-Ifwhat you've told me is true,
+If what you've told me is true,
 
 675
 01:08:39,449 --> 01:08:41,369
@@ -2957,7 +2957,7 @@ if the Jedi destroy me,
 
 681
 01:09:26,496 --> 01:09:30,496
-any chance ofsaving her will be lost.
+any chance of saving her will be lost.
 
 682
 01:10:59,380 --> 01:11:03,840
@@ -2979,7 +2979,7 @@ you're under arrest, Chancellor.
 
 686
 01:11:13,061 --> 01:11:15,691
-Are you threatening me, MasterJedi?
+Are you threatening me, Master Jedi?
 
 687
 01:11:15,772 --> 01:11:17,732
@@ -3008,11 +3008,11 @@ I was right.
 
 693
 01:13:17,393 --> 01:13:19,563
-TheJedi are taking over.
+The Jedi are taking over.
 
 694
 01:13:19,645 --> 01:13:22,145
-The oppression ofthe Sith will never return.
+The oppression of the Sith will never return.
 
 695
 01:13:22,231 --> 01:13:24,481
@@ -3088,7 +3088,7 @@ He must stand trial.
 
 713
 01:14:24,418 --> 01:14:27,838
-He has control ofthe senate and the courts.
+He has control of the senate and the courts.
 
 714
 01:14:27,922 --> 01:14:30,172
@@ -3100,7 +3100,7 @@ I'm too weak. Oh. Don't kill me. Please.
 
 716
 01:14:34,345 --> 01:14:36,255
-It's not theJedi way.
+It's not the Jedi way.
 
 717
 01:14:36,347 --> 01:14:37,887
@@ -3141,11 +3141,11 @@ Become my apprentice.
 
 726
 01:15:35,364 --> 01:15:40,834
-Learn to use the dark side ofthe Force.
+Learn to use the dark side of the Force.
 
 727
 01:15:43,456 --> 01:15:46,456
-I will do whateveryou ask.
+I will do whatever you ask.
 
 728
 01:15:48,669 --> 01:15:51,089
@@ -3166,7 +3166,7 @@ only one has achieved,
 
 732
 01:16:07,855 --> 01:16:11,565
-but ifwe work together...
+but if we work together...
 
 733
 01:16:11,651 --> 01:16:15,491
@@ -3206,7 +3206,7 @@ Vader.
 
 742
 01:17:00,157 --> 01:17:03,197
-Thankyou, my master.
+Thank you, my master.
 
 743
 01:17:05,371 --> 01:17:07,371
@@ -3215,16 +3215,16 @@ Rise.
 744
 01:17:20,511 --> 01:17:25,471
 Because the council did not trust you,
-myyoung apprentice,
+my young apprentice,
 
 745
 01:17:27,018 --> 01:17:31,808
-I believe you are the onlyJedi
-with no knowledge ofthis plot.
+I believe you are the only Jedi
+with no knowledge of this plot.
 
 746
 01:17:33,107 --> 01:17:35,857
-When theJedi learn what has transpired here,
+When the Jedi learn what has transpired here,
 
 747
 01:17:35,943 --> 01:17:37,943
@@ -3245,7 +3245,7 @@ will be against the senate.
 
 751
 01:17:46,537 --> 01:17:49,537
-Every singleJedi,
+Every single Jedi,
 
 752
 01:17:49,623 --> 01:17:52,923
@@ -3253,7 +3253,7 @@ including your friend Obi-Wan Kenobi,
 
 753
 01:17:53,002 --> 01:17:56,592
-is now an enemy ofthe Republic.
+is now an enemy of the Republic.
 
 754
 01:17:57,590 --> 01:17:59,590
@@ -3265,16 +3265,16 @@ We must move quickly.
 
 756
 01:18:02,386 --> 01:18:04,346
-TheJedi are relentless.
+The Jedi are relentless.
 
 757
 01:18:04,430 --> 01:18:10,270
-Ifthey are not all destroyed,
-it will be civil warwithout end.
+If they are not all destroyed,
+it will be civil war without end.
 
 758
 01:18:11,937 --> 01:18:15,937
-First I want you to go to theJedi temple.
+First I want you to go to the Jedi temple.
 
 759
 01:18:16,817 --> 01:18:19,937
@@ -3299,7 +3299,7 @@ to save Padmé.
 
 764
 01:18:36,170 --> 01:18:40,050
-What about the otherJedi
+What about the other Jedi
 spread across the galaxy?
 
 765
@@ -3308,8 +3308,8 @@ Their betrayal will be dealt with.
 
 766
 01:18:45,137 --> 01:18:48,427
-Afteryou have killed
-all theJedi in the temple,
+After you have killed
+all the Jedi in the temple,
 
 767
 01:18:48,516 --> 01:18:51,226
@@ -3370,7 +3370,7 @@ I think you'll be needing this.
 
 781
 01:20:29,325 --> 01:20:32,905
-Thankyou, Cody. Now let's get a move on.
+Thank you, Cody. Now let's get a move on.
 We've got a battle to win here.
 
 782
@@ -3416,7 +3416,7 @@ It will be done, my lord.
 
 792
 01:23:45,771 --> 01:23:48,191
-Master Skywalker, there are too many ofthem.
+Master Skywalker, there are too many of them.
 
 793
 01:23:48,273 --> 01:23:50,273
@@ -3425,7 +3425,7 @@ What are we going to do?
 794
 01:24:00,744 --> 01:24:04,914
 The chancellor's office indicated
-Master Anakin returned to theJedi temple.
+Master Anakin returned to the Jedi temple.
 
 795
 01:24:04,998 --> 01:24:08,128
@@ -3442,7 +3442,7 @@ Don't worry. The situation is under control.
 
 798
 01:24:43,162 --> 01:24:46,462
-I'm sorry, sir. It's time foryou to leave.
+I'm sorry, sir. It's time for you to leave.
 
 799
 01:24:48,167 --> 01:24:50,127
@@ -3484,7 +3484,7 @@ Miss you I will.
 
 808
 01:26:40,404 --> 01:26:42,704
-Hopefully we'll be able to intercept a fewJedi...
+Hopefully we'll be able to intercept a few Jedi...
 
 809
 01:26:42,781 --> 01:26:45,201
@@ -3530,7 +3530,7 @@ My clone troops turned on me. I need help.
 
 819
 01:27:47,554 --> 01:27:50,184
-We havejust rescued MasterYoda.
+We have just rescued Master Yoda.
 
 820
 01:27:50,265 --> 01:27:52,595
@@ -3547,7 +3547,7 @@ Hush! Not so loud.
 823
 01:28:04,571 --> 01:28:07,571
 Are you all right?
-I heard there was an attack on theJedi temple.
+I heard there was an attack on the Jedi temple.
 
 824
 01:28:07,699 --> 01:28:10,159
@@ -3556,13 +3556,13 @@ I'm fine. I'm fine.
 
 825
 01:28:10,285 --> 01:28:13,825
-I came to see ifyou
+I came to see if you
 and the baby are safe.
 What's happening?
 
 826
 01:28:13,914 --> 01:28:16,794
-TheJedi have tried to overthrow the Republic.
+The Jedi have tried to overthrow the Republic.
 
 827
 01:28:16,875 --> 01:28:19,455
@@ -3599,7 +3599,7 @@ I don't know.
 
 835
 01:28:51,118 --> 01:28:53,238
-ManyJedi have been killed.
+Many Jedi have been killed.
 
 836
 01:28:53,328 --> 01:28:57,158
@@ -3646,7 +3646,7 @@ Please, wait for me.
 
 846
 01:29:32,868 --> 01:29:35,618
-Well, he is under a lot ofstress, R2.
+Well, he is under a lot of stress, R2.
 
 847
 01:29:37,831 --> 01:29:39,791
@@ -3666,7 +3666,7 @@ Oh. I- I feel so helpless.
 
 851
 01:30:18,038 --> 01:30:21,418
-How many otherJedi
+How many other Jedi
 have managed to survive?
 
 852
@@ -3675,12 +3675,12 @@ Heard from no one have we.
 
 853
 01:30:24,920 --> 01:30:28,050
-I saw thousands oftroops
-attack theJedi temple.
+I saw thousands of troops
+attack the Jedi temple.
 
 854
 01:30:28,131 --> 01:30:30,051
-That's why I went looking forYoda.
+That's why I went looking for Yoda.
 
 855
 01:30:30,133 --> 01:30:32,723
@@ -3693,7 +3693,7 @@ Received a coded retreat message we have.
 
 857
 01:30:35,764 --> 01:30:39,774
-It requests allJedi to return to the temple.
+It requests all Jedi to return to the temple.
 
 858
 01:30:39,893 --> 01:30:43,353
@@ -3702,7 +3702,7 @@ Well, then we must go back.
 
 859
 01:30:43,438 --> 01:30:46,938
-Ifthere are any stragglers,
+If there are any stragglers,
 they will fall into the trap and be killed.
 
 860
@@ -3737,7 +3737,7 @@ When my new apprentice Darth Vader arrives,
 
 867
 01:31:34,406 --> 01:31:37,946
-he will take care ofyou.
+he will take care of you.
 
 868
 01:31:49,546 --> 01:31:52,626
@@ -3771,7 +3771,7 @@ at a special session ofCongress.
 874
 01:32:13,278 --> 01:32:16,408
 The chancellor will not be able to control
-the thousands ofstar systems...
+the thousands of star systems...
 
 875
 01:32:16,489 --> 01:32:18,449
@@ -3779,12 +3779,12 @@ without keeping the senate intact.
 
 876
 01:32:19,367 --> 01:32:22,577
-Ifa special session ofCongress there is,
+If a special session ofCongress there is,
 
 877
 01:32:22,662 --> 01:32:26,332
 easier for us to enter
-theJedi temple it will be.
+the Jedi temple it will be.
 
 878
 01:33:04,454 --> 01:33:06,464
@@ -3805,7 +3805,7 @@ The chancellor's been elaborating...
 
 882
 01:34:13,732 --> 01:34:17,072
-on a plot by theJedi
+on a plot by the Jedi
 to overthrow the senate.
 
 883
@@ -3901,7 +3901,7 @@ We only want-
 905
 01:36:41,296 --> 01:36:46,006
 I have recalibrated the code,
-warning all survivingJedi to stay away.
+warning all surviving Jedi to stay away.
 
 906
 01:36:46,092 --> 01:36:48,552
@@ -3980,7 +3980,7 @@ young Skywalker has become.
 
 924
 01:38:13,638 --> 01:38:17,058
-The boyyou trained, gone he is.
+The boy you trained, gone he is.
 
 925
 01:38:17,141 --> 01:38:20,061
@@ -4141,7 +4141,7 @@ Oh, dear.
 962
 01:41:54,442 --> 01:41:58,072
 I think I'm beginning to get the hang
-ofthis flying business. Hmm.
+of this flying business. Hmm.
 
 963
 01:42:25,431 --> 01:42:28,891
@@ -4160,7 +4160,7 @@ peace and justice to the galaxy.
 966
 01:42:39,195 --> 01:42:44,115
 Send a message to the ships
-ofthe Trade Federation.
+of the Trade Federation.
 
 967
 01:42:44,200 --> 01:42:49,370
@@ -4173,7 +4173,7 @@ Very good, my lord.
 
 969
 01:43:51,475 --> 01:43:53,595
-I sawyour ship.
+I saw your ship.
 
 970
 01:43:56,397 --> 01:43:59,437
@@ -4241,11 +4241,11 @@ I won't lose you the way I lost my mother.
 985
 01:44:45,029 --> 01:44:49,279
 I am becoming more powerful
-than anyJedi has ever dreamed of.
+than any Jedi has ever dreamed of.
 
 986
 01:44:49,367 --> 01:44:52,197
-And I'm doing it foryou. To protect you.
+And I'm doing it for you. To protect you.
 
 987
 01:44:53,996 --> 01:44:55,456
@@ -4299,12 +4299,12 @@ I don't want to hear any more about Obi-Wan.
 
 999
 01:45:39,667 --> 01:45:43,877
-TheJedi turned against me.
+The Jedi turned against me.
 Don't you turn against me.
 
 1000
 01:45:45,548 --> 01:45:47,588
-I don't knowyou anymore.
+I don't know you anymore.
 
 1001
 01:45:49,176 --> 01:45:51,176
@@ -4324,7 +4324,7 @@ Because ofObi-Wan?
 
 1005
 01:45:59,895 --> 01:46:02,685
-Because ofwhat you've done.
+Because of what you've done.
 
 1006
 01:46:02,773 --> 01:46:04,733
@@ -4394,7 +4394,7 @@ Don't lecture me, Obi-Wan.
 
 1021
 01:47:10,508 --> 01:47:13,048
-I see through the lies oftheJedi.
+I see through the lies of the Jedi.
 
 1022
 01:47:14,136 --> 01:47:16,546
@@ -4427,7 +4427,7 @@ is to the Republic, to democracy!
 
 1029
 01:47:37,159 --> 01:47:39,789
-Ifyou're not with me,
+If you're not with me,
 
 1030
 01:47:40,788 --> 01:47:42,708
@@ -4455,7 +4455,7 @@ Or should I call you Darth Sidious?
 
 1036
 01:48:35,175 --> 01:48:37,425
-MasterYoda.
+Master Yoda.
 
 1037
 01:48:37,511 --> 01:48:39,601
@@ -4467,7 +4467,7 @@ Surprised?
 
 1039
 01:48:42,516 --> 01:48:47,146
-Your arrogance blinds you, MasterYoda.
+Your arrogance blinds you, Master Yoda.
 
 1040
 01:48:47,229 --> 01:48:49,309
@@ -4475,7 +4475,7 @@ Now you will experience...
 
 1041
 01:48:49,398 --> 01:48:53,898
-the full power ofthe dark side.
+the full power of the dark side.
 
 1042
 01:49:35,819 --> 01:49:39,529
@@ -4692,7 +4692,7 @@ Yes, sir. Right away.
 
 1093
 02:03:45,502 --> 02:03:47,132
-Excuse me, MasterYoda.
+Excuse me, Master Yoda.
 
 1094
 02:03:53,009 --> 02:03:55,219
@@ -4840,7 +4840,7 @@ My wife and I will take the girl.
 
 1129
 02:09:23,005 --> 02:09:26,335
-We've always talked ofadopting a baby girl.
+We've always talked of adopting a baby girl.
 
 1130
 02:09:26,425 --> 02:09:28,295
@@ -4848,7 +4848,7 @@ She will be loved with us.
 
 1131
 02:09:29,554 --> 02:09:31,184
-And what ofthe boy?
+And what of the boy?
 
 1132
 02:09:32,181 --> 02:09:35,641
@@ -4869,7 +4869,7 @@ Master Kenobi, wait a moment.
 1136
 02:09:55,955 --> 02:10:01,205
 In your solitude on Tatooine,
-training I have foryou.
+training I have for you.
 
 1137
 02:10:02,587 --> 02:10:03,837
@@ -4882,7 +4882,7 @@ An old friend has learned the path to immortality.
 1139
 02:10:10,553 --> 02:10:13,683
 One who has returned
-from the netherworld ofthe Force.
+from the netherworld of the Force.
 
 1140
 02:10:13,764 --> 02:10:16,314

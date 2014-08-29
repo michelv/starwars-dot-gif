@@ -1,4 +1,4 @@
-﻿1
+1
 00:02:00,370 --> 00:02:02,410
 Captain.
 Yes, sir?
@@ -18,7 +18,7 @@ wish to board immediately.
 
 5
 00:02:11,048 --> 00:02:12,968
-Yes, ofcourse.
+Yes, of course.
 
 6
 00:02:13,050 --> 00:02:16,180
@@ -38,7 +38,7 @@ This way, please.
 
 10
 00:02:53,590 --> 00:02:56,680
-We are greatly honored byyour visit, Ambassadors.
+We are greatly honored by your visit, Ambassadors.
 
 11
 00:02:56,760 --> 00:02:58,680
@@ -73,15 +73,15 @@ where it belongs.
 18
 00:03:20,325 --> 00:03:23,195
 But Master Yoda said
-I should be mindful ofthe future.
+I should be mindful of the future.
 
 19
 00:03:23,287 --> 00:03:25,327
-But not at the expense ofthe moment.
+But not at the expense of the moment.
 
 20
 00:03:25,414 --> 00:03:28,374
-Be mindful ofthe living Force,
+Be mindful of the living Force,
 young Padawan.
 
 21
@@ -107,7 +107,7 @@ What? What did you say?
 
 26
 00:03:44,933 --> 00:03:47,943
-The ambassadors areJedi knights,
+The ambassadors are Jedi knights,
 I believe.
 
 27
@@ -129,7 +129,7 @@ Are you brain-dead?
 
 31
 00:03:58,530 --> 00:04:02,450
-I'm not going in there with twoJedi.
+I'm not going in there with two Jedi.
 
 32
 00:04:02,534 --> 00:04:04,494
@@ -141,7 +141,7 @@ Is it in their nature to make us wait this long?
 
 34
 00:04:11,877 --> 00:04:16,507
-No. I sense an unusual amount offear
+No. I sense an unusual amount of fear
 for something as trivial as this trade dispute.
 
 35
@@ -150,12 +150,12 @@ What is it?
 
 36
 00:04:29,394 --> 00:04:32,064
-This scheme ofyours has failed, Lord Sidious.
+This scheme of yours has failed, Lord Sidious.
 
 37
 00:04:32,147 --> 00:04:35,727
 The blockade is finished.
-We dare not go against theseJedi.
+We dare not go against these Jedi.
 
 38
 00:04:35,817 --> 00:04:40,697
@@ -164,7 +164,7 @@ in my sight again.
 
 39
 00:04:42,032 --> 00:04:44,582
-This turn ofevents is unfortunate.
+This turn of events is unfortunate.
 
 40
 00:04:44,660 --> 00:04:48,790
@@ -181,7 +181,7 @@ I will make it legal.
 
 43
 00:04:55,128 --> 00:04:57,458
-And theJedi?
+And the Jedi?
 
 44
 00:04:57,547 --> 00:05:01,967
@@ -215,7 +215,7 @@ They must be dead by now.
 
 51
 00:05:29,121 --> 00:05:33,081
-Destroy what's left ofthem.
+Destroy what's left of them.
 
 52
 00:05:39,923 --> 00:05:42,343
@@ -223,7 +223,7 @@ Oh! Excuse me.
 
 53
 00:05:42,426 --> 00:05:45,386
-- Check it out, Corporal. We'll coveryou.
+- Check it out, Corporal. We'll cover you.
 - Roger, roger.
 
 54
@@ -244,7 +244,7 @@ Have you ever encountered a Jedi knight before, sir?
 
 58
 00:06:05,031 --> 00:06:07,991
-Well, no, but I don't— Seal offthe bridge.
+Well, no, but I don't— Seal off the bridge.
 
 59
 00:06:08,118 --> 00:06:10,828
@@ -349,11 +349,11 @@ when you hear what I have to say, Viceroy.
 
 83
 00:08:11,241 --> 00:08:14,991
-Your trade boycott ofour planet has ended.
+Your trade boycott of our planet has ended.
 
 84
 00:08:15,078 --> 00:08:17,658
-I was not aware ofsuch failure.
+I was not aware of such failure.
 
 85
 00:08:17,747 --> 00:08:20,497
@@ -367,7 +367,7 @@ to reach settlement.
 
 87
 00:08:23,420 --> 00:08:25,710
-I know nothing ofany ambassadors.
+I know nothing of any ambassadors.
 
 88
 00:08:25,797 --> 00:08:28,217
@@ -384,7 +384,7 @@ The Federation has gone too far this time.
 91
 00:08:33,221 --> 00:08:37,311
 We would never do anything
-without the approval ofthe senate.
+without the approval of the senate.
 
 92
 00:08:37,392 --> 00:08:39,982
@@ -477,7 +477,7 @@ against a battle-hardened Federation army.
 
 112
 00:09:51,216 --> 00:09:55,836
-I will not condone a course ofaction
+I will not condone a course of action
 that will lead us to war.
 
 113
@@ -487,20 +487,20 @@ that will lead us to war.
 
 114
 00:10:34,592 --> 00:10:36,722
-and there is no trace oftheJedi.
+and there is no trace of the Jedi.
 
 115
 00:10:36,803 --> 00:10:39,603
-They may have gotten on one ofyour landing craft.
+They may have gotten on one of your landing craft.
 
 116
 00:10:39,681 --> 00:10:42,181
-Ifthey're down here, sir, we'll find them.
+If they're down here, sir, we'll find them.
 
 117
 00:10:42,267 --> 00:10:47,147
 Use caution.
-TheseJedi are not to be underestimated.
+These Jedi are not to be underestimated.
 
 118
 00:11:00,452 --> 00:11:03,002
@@ -625,12 +625,12 @@ Yah.
 
 144
 00:12:33,211 --> 00:12:37,011
-That is the sound ofa thousand
+That is the sound of a thousand
 terrible things heading this way.
 
 145
 00:12:37,090 --> 00:12:39,680
-Ifthey find us, they will crush us,
+If they find us, they will crush us,
 
 146
 00:12:39,759 --> 00:12:44,349
@@ -662,7 +662,7 @@ so don't spect a warm welcome.
 152
 00:13:05,785 --> 00:13:09,115
 Oh, don't worry.
-This hasn't been our day forwarm welcomes.
+This hasn't been our day for warm welcomes.
 
 153
 00:13:09,205 --> 00:13:13,165
@@ -743,8 +743,8 @@ Day tink day brains so big.
 
 171
 00:15:17,292 --> 00:15:21,462
-Once those droids take control ofthe surface,
-they will take control ofyou.
+Once those droids take control of the surface,
+they will take control of you.
 
 172
 00:15:21,546 --> 00:15:23,916
@@ -760,7 +760,7 @@ You and the Naboo form a symbiont circle.
 
 175
 00:15:30,054 --> 00:15:33,474
-What happens to one ofyou will affect the other.
+What happens to one of you will affect the other.
 You must understand this.
 
 176
@@ -802,7 +802,7 @@ go.
 
 185
 00:16:01,627 --> 00:16:03,877
-Thankyou foryour help. We leave in peace.
+Thank you for your help. We leave in peace.
 
 186
 00:16:03,963 --> 00:16:06,093
@@ -945,7 +945,7 @@ bogged down in procedures.
 218
 00:18:51,964 --> 00:18:56,474
 They will have no choice
-but to accept your control ofthe system.
+but to accept your control of the system.
 
 219
 00:18:56,552 --> 00:19:01,262
@@ -966,7 +966,7 @@ Yes, my lord.
 
 223
 00:19:11,359 --> 00:19:14,319
-You didn't tell him about the missingJedi.
+You didn't tell him about the missing Jedi.
 
 224
 00:19:14,403 --> 00:19:18,953
@@ -1074,8 +1074,8 @@ Now, now, Your Highness.
 
 247
 00:21:49,433 --> 00:21:53,563
-In time, the suffering ofyour people
-will persuade you to see our point ofview.
+In time, the suffering of your people
+will persuade you to see our point of view.
 
 248
 00:21:54,897 --> 00:21:56,817
@@ -1102,7 +1102,7 @@ Whoo-hoo-hoo!
 253
 00:22:57,084 --> 00:23:01,094
 - We should leave the street, Your Highness.
-- Get theirweapons.
+- Get their weapons.
 
 254
 00:23:01,172 --> 00:23:04,722
@@ -1136,7 +1136,7 @@ In the main hangar. This way.
 
 261
 00:23:26,238 --> 00:23:29,408
-- There are too many ofthem.
+- There are too many of them.
 - That won't be a problem.
 
 262
@@ -1146,12 +1146,12 @@ I suggest you come to Coruscant with us.
 
 263
 00:23:33,120 --> 00:23:36,250
-Thankyou, Ambassador,
+Thank you, Ambassador,
 but my place is with my people.
 
 264
 00:23:36,332 --> 00:23:39,082
--They will kill you ifyou stay.
+-They will kill you if you stay.
 -They wouldn't dare.
 
 265
@@ -1171,7 +1171,7 @@ There's no logic in the Federation's move here.
 
 268
 00:23:47,343 --> 00:23:49,303
-My feelings tell me they will destroyyou.
+My feelings tell me they will destroy you.
 
 269
 00:23:49,386 --> 00:23:51,846
@@ -1191,7 +1191,7 @@ We are brave, Your Highness.
 
 273
 00:24:00,606 --> 00:24:03,856
-Ifyou are to leave, Your Highness, it must be now.
+If you are to leave, Your Highness, it must be now.
 
 274
 00:24:03,943 --> 00:24:06,443
@@ -1242,7 +1242,7 @@ Go!
 
 285
 00:25:18,142 --> 00:25:21,482
-Now, stay here and keep out oftrouble.
+Now, stay here and keep out of trouble.
 
 286
 00:25:25,232 --> 00:25:28,402
@@ -1266,7 +1266,7 @@ We're losing droids fast.
 
 291
 00:26:09,193 --> 00:26:12,613
-Ifwe can't get the shield generator fixed,
+If we can't get the shield generator fixed,
 we'll be sitting ducks.
 
 292
@@ -1302,7 +1302,7 @@ Here, Master. Tatooine.
 
 299
 00:26:53,112 --> 00:26:56,742
-Small, out ofthe way, poor.
+Small, out of the way, poor.
 The Trade Federation have no presence there.
 
 300
@@ -1320,8 +1320,8 @@ The Hutts are gangsters.
 
 303
 00:27:03,789 --> 00:27:06,119
-- Ifthey discovered her--
-- It'd be no different than ifwe landed...
+- If they discovered her--
+- It'd be no different than if we landed...
 
 304
 00:27:06,208 --> 00:27:08,078
@@ -1358,7 +1358,7 @@ it's impossible to locate the ship.
 
 312
 00:27:36,071 --> 00:27:38,321
-It's out ofour range.
+It's out of our range.
 
 313
 00:27:38,407 --> 00:27:41,157
@@ -1382,7 +1382,7 @@ This is getting out of hand.
 
 318
 00:27:56,550 --> 00:27:58,590
-Now there are two ofthem.
+Now there are two of them.
 
 319
 00:27:58,677 --> 00:28:01,757
@@ -1408,7 +1408,7 @@ R2-D2, Your Highness.
 
 324
 00:28:21,950 --> 00:28:27,080
-- Thankyou, R2-D2.
+- Thank you, R2-D2.
 
 325
 00:28:27,164 --> 00:28:30,004
@@ -1438,15 +1438,15 @@ called Tatooine.
 331
 00:28:45,474 --> 00:28:48,814
 It's in a system far beyond the reach
-ofthe Trade Federation.
+of the Trade Federation.
 
 332
 00:28:48,894 --> 00:28:51,564
-I do not agree with theJedi on this.
+I do not agree with the Jedi on this.
 
 333
 00:28:51,647 --> 00:28:54,607
-You must trust myjudgment, Your Highness.
+You must trust my judgment, Your Highness.
 
 334
 00:28:57,986 --> 00:28:59,696
@@ -1488,7 +1488,7 @@ Den boom! Getten berry scared...
 
 343
 00:29:23,345 --> 00:29:26,715
-and grabben datJedi, and pow-- mesa here.
+and grabben dat Jedi, and pow-- mesa here.
 
 344
 00:29:26,849 --> 00:29:29,519
@@ -1591,7 +1591,7 @@ Oh! Icky icky goo!
 
 367
 00:31:35,477 --> 00:31:38,767
-We'll try one ofthe smaller dealers.
+We'll try one of the smaller dealers.
 
 368
 00:31:43,485 --> 00:31:45,605
@@ -1607,7 +1607,7 @@ I need parts for a J-type 327 Nubian.
 
 371
 00:31:51,827 --> 00:31:55,957
-Ah, yes! Nubian. We have lots ofthat.
+Ah, yes! Nubian. We have lots of that.
 
 372
 00:31:56,623 --> 00:31:58,543
@@ -1615,11 +1615,11 @@ Boy, get in here now!
 
 373
 00:31:58,625 --> 00:32:00,535
-My droid has a readout ofwhat I need.
+My droid has a readout of what I need.
 
 374
 00:32:03,130 --> 00:32:04,840
-What tookyou so long?
+What took you so long?
 
 375
 00:32:05,549 --> 00:32:07,049
@@ -1708,7 +1708,7 @@ My mom and I were sold to Gardulla the Hutt,
 
 394
 00:33:08,737 --> 00:33:11,447
-but she lost us betting on the Podraces.
+but she lost us betting on the Pod-races.
 
 395
 00:33:11,531 --> 00:33:13,321
@@ -1766,7 +1766,7 @@ It would be cheaper, huh?
 
 407
 00:33:52,030 --> 00:33:55,030
-Saying ofwhich,
+Saying of which,
 
 408
 00:33:55,117 --> 00:33:57,487
@@ -1801,7 +1801,7 @@ No, they won't!
 
 415
 00:34:13,718 --> 00:34:17,968
-What, you thinkyou're some kind ofJedi,
+What, you think you're some kind of Jedi,
 waving your hand around like that?
 
 416
@@ -1874,12 +1874,12 @@ And you're sure there's nothing left on board?
 
 432
 00:35:24,039 --> 00:35:25,959
-A few containers ofsupplies.
+A few containers of supplies.
 
 433
 00:35:26,041 --> 00:35:29,131
 The queen's wardrobe, maybe,
-but not enough foryou to barter with,
+but not enough for you to barter with,
 
 434
 00:35:29,211 --> 00:35:31,551
@@ -1908,7 +1908,7 @@ Wesa be wobbed un crunched!
 
 440
 00:35:44,226 --> 00:35:47,386
-Not likely. We have nothing ofvalue.
+Not likely. We have nothing of value.
 That's our problem.
 
 441
@@ -1967,17 +1967,17 @@ before we race again.
 454
 00:36:35,026 --> 00:36:38,946
 Next time we race, boy,
-it will be the end ofyou.
+it will be the end of you.
 
 455
 00:36:39,030 --> 00:36:42,120
-Ifyou weren't a slave,
+If you weren't a slave,
 I'd squash you now.
 
 456
 00:36:42,784 --> 00:36:45,664
 Yeah, it'd be a pity
-ifyou had to pay for me.
+if you had to pay for me.
 
 457
 00:36:46,746 --> 00:36:49,916
@@ -2006,7 +2006,7 @@ You were heading into trouble.
 
 462
 00:37:04,431 --> 00:37:06,311
-Thanks, myyoung friend.
+Thanks, my young friend.
 
 463
 00:37:06,391 --> 00:37:08,481
@@ -2040,7 +2040,7 @@ Here, you'll like these pallies.
 470
 00:37:37,631 --> 00:37:40,301
 Here.
-Thankyou.
+Thank you.
 
 471
 00:37:41,426 --> 00:37:43,716
@@ -2098,7 +2098,7 @@ Your son was kind enough to offer us shelter.
 
 483
 00:38:31,685 --> 00:38:35,185
-Come on. I'll showyou 3PO.
+Come on. I'll show you 3PO.
 Oh, mooie-mooie.
 
 484
@@ -2146,7 +2146,7 @@ Oh. Perfect.
 00:39:14,018 --> 00:39:17,558
 When the storm is over,
 I'll show you my racer.
-I'm building a Podracer.
+I'm building a Pod-racer.
 
 495
 00:39:17,647 --> 00:39:21,527
@@ -2192,7 +2192,7 @@ It's a trick. Send no reply.
 
 505
 00:39:57,604 --> 00:40:01,114
-Send no transmissions ofany kind.
+Send no transmissions of any kind.
 
 506
 00:40:01,191 --> 00:40:04,781
@@ -2204,7 +2204,7 @@ What if it is true, and the people are dying?
 
 508
 00:40:08,948 --> 00:40:11,488
-Either way, we're running out oftime.
+Either way, we're running out of time.
 
 509
 00:40:25,089 --> 00:40:27,259
@@ -2212,12 +2212,12 @@ Tatooine is sparsely populated.
 
 510
 00:40:27,342 --> 00:40:30,182
-Ifthe trace was correct,
+If the trace was correct,
 I will find them quickly, Master.
 
 511
 00:40:30,261 --> 00:40:32,181
-Move against theJedi first.
+Move against the Jedi first.
 
 512
 00:40:32,263 --> 00:40:35,023
@@ -2230,7 +2230,7 @@ to sign the treaty.
 
 514
 00:40:37,101 --> 00:40:39,311
-At last we will reveal ourselves to theJedi.
+At last we will reveal ourselves to the Jedi.
 
 515
 00:40:39,395 --> 00:40:41,855
@@ -2239,11 +2239,11 @@ At last we will have revenge.
 516
 00:40:41,940 --> 00:40:44,860
 You have been well-trained,
-myyoung apprentice.
+my young apprentice.
 
 517
 00:40:44,943 --> 00:40:47,363
-They will be no match foryou.
+They will be no match for you.
 
 518
 00:40:52,200 --> 00:40:57,200
@@ -2258,7 +2258,7 @@ to try and locate mine.
 520
 00:41:00,416 --> 00:41:03,916
 Any attempt to escape—
-And they blowyou up!
+And they blow you up!
 
 521
 00:41:04,003 --> 00:41:06,463
@@ -2284,15 +2284,15 @@ We must survive on our own.
 
 526
 00:41:16,683 --> 00:41:19,353
-Xcuse me.
+Excuse me.
 
 527
 00:41:19,435 --> 00:41:22,855
-Has anybody ever seen a Podrace?
+Has anybody ever seen a Pod-race?
 
 528
 00:41:22,939 --> 00:41:27,609
-They have Podracing on Malastare.
+They have Pod-racing on Malastare.
 Very fast, very dangerous.
 
 529
@@ -2301,7 +2301,7 @@ I'm the only human who can do it.
 
 530
 00:41:30,363 --> 00:41:33,573
-You must haveJedi reflexes ifyou race pods.
+You must have Jedi reflexes if you race pods.
 
 531
 00:41:33,658 --> 00:41:35,948
@@ -2317,8 +2317,8 @@ What makes you think that?
 
 534
 00:41:48,548 --> 00:41:52,838
-I sawyour laser sword.
-OnlyJedis carry that kind ofweapon.
+I saw your laser sword.
+Only Jedis carry that kind of weapon.
 
 535
 00:41:52,927 --> 00:41:55,847
@@ -2396,8 +2396,8 @@ Wit no-nutten mula to trade.
 
 552
 00:42:48,149 --> 00:42:51,689
-Thesejunk dealers must have
-a weakness ofsome kind.
+These junk dealers must have
+a weakness of some kind.
 
 553
 00:42:51,778 --> 00:42:56,278
@@ -2406,7 +2406,7 @@ betting on those awful races.
 
 554
 00:42:56,366 --> 00:43:00,576
-Podracing. Greed can be a powerful ally.
+Pod-racing. Greed can be a powerful ally.
 
 555
 00:43:00,662 --> 00:43:03,582
@@ -2432,7 +2432,7 @@ You could make him think it was yours...
 
 560
 00:43:14,133 --> 00:43:16,433
-and get him to let me pilot it foryou.
+and get him to let me pilot it for you.
 
 561
 00:43:16,511 --> 00:43:20,721
@@ -2570,7 +2570,7 @@ The boy's good. No doubts there, huh?
 
 592
 00:45:15,630 --> 00:45:19,970
-I have acquired a pod in a game ofchance,
+I have acquired a pod in a game of chance,
 the fastest ever built.
 
 593
@@ -2597,16 +2597,16 @@ I suggest you front the cash for the entry.
 
 598
 00:45:41,072 --> 00:45:43,162
-Ifwe win,
+If we win,
 
 599
 00:45:43,241 --> 00:45:47,081
 you keep all the winnings,
-minus the cost ofthe parts I need.
+minus the cost of the parts I need.
 
 600
 00:45:47,161 --> 00:45:50,411
-And ifwe lose, you keep my ship.
+And if we lose, you keep my ship.
 
 601
 00:45:51,666 --> 00:45:54,246
@@ -2622,7 +2622,7 @@ Your friend is a foolish one, methinks.
 
 604
 00:46:18,776 --> 00:46:21,776
-What ifthis plan fails, Master?
+What if this plan fails, Master?
 
 605
 00:46:21,863 --> 00:46:24,613
@@ -2648,7 +2648,7 @@ there's something about this boy.
 
 610
 00:46:40,923 --> 00:46:44,013
-You should be very proud ofyour son.
+You should be very proud of your son.
 
 611
 00:46:44,093 --> 00:46:47,143
@@ -2677,7 +2677,7 @@ That's why he appears to have such quick reflexes.
 
 617
 00:47:02,987 --> 00:47:04,857
-It's aJedi trait.
+It's a Jedi trait.
 
 618
 00:47:04,989 --> 00:47:07,819
@@ -2737,7 +2737,7 @@ Wow, a real astro droid.
 631
 00:48:00,628 --> 00:48:04,378
 How did you get so lucky?
-That isn't the halfof it.
+That isn't the half of it.
 
 632
 00:48:04,507 --> 00:48:07,507
@@ -2755,7 +2755,7 @@ You're such a joker, Ani.
 635
 00:48:12,348 --> 00:48:15,598
 You've been working
-on that thing foryears.
+on that thing for years.
 It's never gonna run.
 
 636
@@ -2777,7 +2777,7 @@ Keep away from those energy binders.
 
 640
 00:48:32,285 --> 00:48:35,785
-Ifyour hand gets caught in the beam,
+If your hand gets caught in the beam,
 it's gonna go numb for hours.
 
 641
@@ -2811,7 +2811,7 @@ to be a little odd.
 
 648
 00:49:01,522 --> 00:49:04,402
-You don't even know ifthis thing's gonna run.
+You don't even know if this thing's gonna run.
 
 649
 00:49:04,483 --> 00:49:06,613
@@ -2845,7 +2845,7 @@ You're quite right. He's very odd indeed.
 
 656
 00:49:26,422 --> 00:49:29,132
-Oh. Th— Thankyou.
+Oh. Th— Thank you.
 
 657
 00:49:29,216 --> 00:49:31,126
@@ -2866,7 +2866,7 @@ Do they all have a system of planets?
 
 661
 00:50:06,587 --> 00:50:08,457
-Most ofthem.
+Most of them.
 
 662
 00:50:08,547 --> 00:50:10,587
@@ -2914,7 +2914,7 @@ Yes, Master?
 672
 00:50:40,454 --> 00:50:43,124
 I need an analysis
-ofthis blood sample I'm sending you.
+of this blood sample I'm sending you.
 
 673
 00:50:43,249 --> 00:50:46,579
@@ -2926,7 +2926,7 @@ I need a midi-chlorian count.
 
 675
 00:50:51,632 --> 00:50:54,302
-The reading is offthe chart.
+The reading is off the chart.
 
 676
 00:50:54,385 --> 00:50:56,255
@@ -2934,12 +2934,12 @@ Over 20,000.
 
 677
 00:50:56,345 --> 00:51:00,055
-Even MasterYoda doesn't have
+Even Master Yoda doesn't have
 a midi-chlorian count that high.
 
 678
 00:51:00,141 --> 00:51:01,931
-NoJedi has.
+No Jedi has.
 
 679
 00:51:02,017 --> 00:51:04,097
@@ -2965,7 +2965,7 @@ And we'll be far away from here.
 
 684
 00:52:25,726 --> 00:52:29,306
-Not ifyour ship belongs to me,
+Not if your ship belongs to me,
 I think, huh?
 
 685
@@ -3081,7 +3081,7 @@ Space travel sounds rather perilous.
 711
 00:54:23,927 --> 00:54:27,967
 I can assure you, they will never get me
-onto one ofthose dreadful starships.
+onto one of those dreadful starships.
 
 712
 00:54:28,057 --> 00:54:31,477
@@ -3091,11 +3091,11 @@ I'm sure you'll do it this time.
 713
 00:54:31,560 --> 00:54:35,860
 - Do what?
-- Finish the race, ofcourse.
+- Finish the race, of course.
 
 714
 00:54:35,939 --> 00:54:40,569
-- You've neverwon a race?
+- You've never won a race?
 - Well, not exactly.
 
 715
@@ -3112,7 +3112,7 @@ Of course you will.
 
 718
 00:55:14,853 --> 00:55:16,983
-...Podracers.
+...Pod-racers.
 
 719
 00:55:17,064 --> 00:55:18,984
@@ -3121,7 +3121,7 @@ That's absolutely right.
 720
 00:55:19,066 --> 00:55:24,146
 And a big turnout here from all corners
-ofthe outer rim territories.
+of the outer rim territories.
 
 721
 00:55:24,238 --> 00:55:27,868
@@ -3284,7 +3284,7 @@ The queen is not—
 
 759
 00:58:49,234 --> 00:58:52,154
-The queen trusts myjudgment,
+The queen trusts my judgment,
 young handmaiden.
 
 760
@@ -3428,7 +3428,7 @@ Arrr!
 
 793
 01:04:24,778 --> 01:04:26,648
-Skywalker's spinning out ofcontrol!
+Skywalker's spinning out of control!
 
 794
 01:05:24,587 --> 01:05:28,547
@@ -3441,7 +3441,7 @@ Here he comes! Owoo!
 
 796
 01:05:37,434 --> 01:05:40,604
-At the start ofthe final lap,
+At the start of the final lap,
 Sebulba's in the lead,
 
 797
@@ -3582,7 +3582,7 @@ You have brought hope to those who have none.
 
 829
 01:10:22,927 --> 01:10:25,177
-I'm so very proud ofyou.
+I'm so very proud of you.
 
 830
 01:10:27,265 --> 01:10:29,175
@@ -3611,8 +3611,8 @@ I lost everything.
 
 836
 01:10:45,992 --> 01:10:48,912
-Wheneveryou gamble,
-my friend, eventuallyyou'll lose.
+Whenever you gamble,
+my friend, eventually you'll lose.
 
 837
 01:10:48,995 --> 01:10:51,905
@@ -3620,7 +3620,7 @@ Bring the parts to the main hangar.
 
 838
 01:10:51,998 --> 01:10:55,328
-I'll come byyour shop later on
+I'll come by your shop later on
 so you can release the boy.
 
 839
@@ -3747,12 +3747,12 @@ is not an easy challenge,
 
 867
 01:12:34,475 --> 01:12:37,385
-and even ifyou succeed, it's a hard life.
+and even if you succeed, it's a hard life.
 
 868
 01:12:37,478 --> 01:12:40,688
 But I wanna go.
-It's what I've always dreamed ofdoing.
+It's what I've always dreamed of doing.
 
 869
 01:12:40,773 --> 01:12:43,653
@@ -3776,7 +3776,7 @@ I wanna do it.
 
 874
 01:12:59,000 --> 01:13:01,250
-Then packyour things.
+Then pack your things.
 We haven't much time.
 
 875
@@ -3806,7 +3806,7 @@ Son, my place is here. My future is here.
 
 881
 01:13:33,534 --> 01:13:36,954
-It is time foryou to let go.
+It is time for you to let go.
 
 882
 01:13:37,038 --> 01:13:39,248
@@ -3830,7 +3830,7 @@ Now hurry.
 
 887
 01:14:00,520 --> 01:14:02,440
-Thankyou.
+Thank you.
 
 888
 01:14:02,522 --> 01:14:05,442
@@ -3985,7 +3985,7 @@ What was it?
 924
 01:17:41,240 --> 01:17:44,660
 I'm not sure,
-but it was well-trained in theJedi arts.
+but it was well-trained in the Jedi arts.
 
 925
 01:17:44,744 --> 01:17:47,754
@@ -4102,7 +4102,7 @@ I'm not sure what'll happen.
 
 953
 01:19:47,575 --> 01:19:49,695
-I made this foryou...
+I made this for you...
 
 954
 01:19:51,120 --> 01:19:53,040
@@ -4110,7 +4110,7 @@ so you'd remember me.
 
 955
 01:19:53,122 --> 01:19:56,462
-I carved it out ofa japor snippet.
+I carved it out of a japor snippet.
 
 956
 01:19:56,542 --> 01:19:59,382
@@ -4122,7 +4122,7 @@ It's beautiful.
 
 958
 01:20:01,463 --> 01:20:03,883
-But I don't need this to rememberyou by.
+But I don't need this to remember you by.
 
 959
 01:20:07,511 --> 01:20:10,931
@@ -4131,11 +4131,11 @@ when we reach the capital, Ani,
 
 960
 01:20:11,015 --> 01:20:13,595
-but my caring foryou will remain.
+but my caring for you will remain.
 
 961
 01:20:16,270 --> 01:20:19,480
-I care foryou, too, only I—
+I care for you, too, only I—
 
 962
 01:20:19,565 --> 01:20:21,725
@@ -4166,7 +4166,7 @@ we've been very concerned.
 
 968
 01:21:25,172 --> 01:21:27,882
-I'm anxious to hearyour report on the situation.
+I'm anxious to hear your report on the situation.
 
 969
 01:21:27,967 --> 01:21:30,587
@@ -4179,7 +4179,7 @@ It's an honor to finally meet you in person.
 
 971
 01:21:34,932 --> 01:21:37,562
-Thankyou, Supreme Chancellor.
+Thank you, Supreme Chancellor.
 
 972
 01:21:37,643 --> 01:21:40,813
@@ -4189,11 +4189,11 @@ everyone is over the current situation.
 973
 01:21:40,896 --> 01:21:43,646
 I've called for a special session
-ofthe senate to hearyour position.
+of the senate to hear your position.
 
 974
 01:21:44,733 --> 01:21:47,653
-I'm grateful foryour concern, Chancellor.
+I'm grateful for your concern, Chancellor.
 
 975
 01:21:47,736 --> 01:21:49,646
@@ -4205,7 +4205,7 @@ but I'm confident we can overcome it.
 
 977
 01:21:52,574 --> 01:21:55,494
-I must speak with theJedi Council immediately.
+I must speak with the Jedi Council immediately.
 
 978
 01:21:55,577 --> 01:21:58,447
@@ -4233,7 +4233,7 @@ The Republic is not what it once was.
 
 984
 01:22:59,600 --> 01:23:04,900
-The senate is full ofgreedy,
+The senate is full of greedy,
 squabbling delegates.
 
 985
@@ -4265,7 +4265,7 @@ the chancellor has little real power.
 
 991
 01:23:21,747 --> 01:23:25,627
-He is mired by baseless accusations ofcorruption.
+He is mired by baseless accusations of corruption.
 
 992
 01:23:25,751 --> 01:23:29,501
@@ -4279,7 +4279,7 @@ to push for the election...
 
 994
 01:23:33,258 --> 01:23:35,178
-ofa stronger supreme chancellor,
+of a stronger supreme chancellor,
 
 995
 01:23:35,260 --> 01:23:37,760
@@ -4287,7 +4287,7 @@ one who could control the bureaucrats...
 
 996
 01:23:37,846 --> 01:23:39,716
-and give usjustice.
+and give us justice.
 
 997
 01:23:39,807 --> 01:23:44,097
@@ -4335,7 +4335,7 @@ That is something I cannot do.
 
 1007
 01:24:23,350 --> 01:24:25,980
-He was trained in theJedi arts.
+He was trained in the Jedi arts.
 
 1008
 01:24:26,061 --> 01:24:30,021
@@ -4364,7 +4364,7 @@ to unravel this mystery.
 1013
 01:24:44,913 --> 01:24:47,963
 We will discover the identity
-ofyour attacker.
+of your attacker.
 
 1014
 01:24:48,041 --> 01:24:50,001
@@ -4414,7 +4414,7 @@ You refer to the prophecy...
 
 1025
 01:25:25,120 --> 01:25:27,540
-ofthe one who will bring balance to the Force.
+of the one who will bring balance to the Force.
 
 1026
 01:25:27,623 --> 01:25:29,463
@@ -4439,11 +4439,11 @@ Oh? Trained as a Jedi you request for him, hmm?
 
 1031
 01:25:42,513 --> 01:25:45,313
-Finding him was the will ofthe Force.
+Finding him was the will of the Force.
 
 1032
 01:25:45,390 --> 01:25:47,350
-I have no doubt ofthat.
+I have no doubt of that.
 
 1033
 01:25:53,482 --> 01:25:56,072
@@ -4477,7 +4477,7 @@ I've sent Padmé on an errand.
 
 1040
 01:26:25,472 --> 01:26:30,392
-I'm on my way to theJedi temple
+I'm on my way to the Jedi temple
 to start my training, I hope.
 
 1041
@@ -4487,7 +4487,7 @@ so I came to say good-bye.
 
 1042
 01:26:34,439 --> 01:26:36,359
-We will tell her foryou.
+We will tell her for you.
 
 1043
 01:26:36,441 --> 01:26:39,071
@@ -4495,7 +4495,7 @@ We are sure her heart goes with you.
 
 1044
 01:26:39,152 --> 01:26:41,282
-Thankyou, Your Highness.
+Thank you, Your Highness.
 
 1045
 01:26:55,210 --> 01:26:59,340
@@ -4504,7 +4504,7 @@ from the sovereign system of Naboo.
 
 1046
 01:27:06,096 --> 01:27:10,516
-Supreme Chancellor, delegates ofthe senate,
+Supreme Chancellor, delegates of the senate,
 
 1047
 01:27:10,601 --> 01:27:13,021
@@ -4513,7 +4513,7 @@ a tragedy has occurred...
 1048
 01:27:13,103 --> 01:27:16,653
 which started right here
-with the taxation oftrade routes...
+with the taxation of trade routes...
 
 1049
 01:27:16,732 --> 01:27:19,782
@@ -4521,7 +4521,7 @@ and has now engulfed our entire planet...
 
 1050
 01:27:19,860 --> 01:27:21,900
-in the oppression ofthe Trade Federation.
+in the oppression of the Trade Federation.
 
 1051
 01:27:21,987 --> 01:27:24,237
@@ -4542,7 +4542,7 @@ To state our allegations, I present Queen Amidala,
 
 1055
 01:27:35,167 --> 01:27:37,167
-recently elected ruler ofthe Naboo,
+recently elected ruler of the Naboo,
 
 1056
 01:27:37,252 --> 01:27:39,172
@@ -4550,17 +4550,17 @@ who speaks on our behalf.
 
 1057
 01:27:45,177 --> 01:27:47,927
-Honorable representatives ofthe Republic,
+Honorable representatives of the Republic,
 
 1058
 01:27:48,013 --> 01:27:51,143
 I come to you
-under the gravest ofcircumstances.
+under the gravest of circumstances.
 
 1059
 01:27:51,224 --> 01:27:54,274
 The Naboo system has been invaded
-by the droid armies ofthe Trade—
+by the droid armies of the Trade—
 
 1060
 01:27:54,353 --> 01:27:57,813
@@ -4596,11 +4596,11 @@ Enter the bureaucrat.
 
 1067
 01:28:15,082 --> 01:28:17,792
-The true rulers ofthe Republic.
+The true rulers of the Republic.
 
 1068
 01:28:17,876 --> 01:28:22,046
-And on the payroll ofthe Trade Federation,
+And on the payroll of the Trade Federation,
 I might add.
 
 1069
@@ -4614,12 +4614,12 @@ The point is conceded.
 
 1071
 01:28:30,389 --> 01:28:33,309
-Will you deferyour motion
+Will you defer your motion
 to allow a commission...
 
 1072
 01:28:33,392 --> 01:28:35,942
-to explore the validity ofyour accusations?
+to explore the validity of your accusations?
 
 1073
 01:28:36,019 --> 01:28:37,939
@@ -4642,7 +4642,7 @@ in a committee.
 
 1077
 01:28:49,741 --> 01:28:52,831
-Ifthis body is not capable ofaction,
+If this body is not capable of action,
 
 1078
 01:28:52,911 --> 01:28:55,961
@@ -4697,7 +4697,7 @@ I shall do what I must, Obi-Wan.
 
 1090
 01:29:42,461 --> 01:29:46,261
-Ifyou would just follow the code,
+If you would just follow the code,
 you would be on the council.
 
 1091
@@ -4708,7 +4708,7 @@ go along with you this time.
 1092
 01:29:49,593 --> 01:29:52,513
 You still have much to learn,
-myyoung apprentice.
+my young apprentice.
 
 1093
 01:29:55,807 --> 01:29:57,177
@@ -4752,7 +4752,7 @@ See through you we can.
 
 1103
 01:30:24,711 --> 01:30:26,631
-Be mindful ofyour feelings.
+Be mindful of your feelings.
 
 1104
 01:30:26,713 --> 01:30:29,513
@@ -4822,7 +4822,7 @@ Wesa got a grand army.
 
 1120
 01:31:33,905 --> 01:31:37,315
-Dat's whyyou no liken us,
+Dat's why you no liken us,
 mesa tinks.
 
 1121
@@ -4857,7 +4857,7 @@ Who else has been nominated?
 
 1128
 01:31:58,680 --> 01:32:03,020
-Bail Antilles ofAlderaan
+Bail Antilles of Alderaan
 and Ainlee Teem of Malastare.
 
 1129
@@ -4872,12 +4872,12 @@ I will be chancellor.
 1131
 01:32:11,860 --> 01:32:14,530
 I fear by the time you have control
-ofthe bureaucrats,
+of the bureaucrats,
 
 1132
 01:32:14,613 --> 01:32:17,873
-there'll be nothing left ofour people,
-ourway of life.
+there'll be nothing left of our people,
+our way of life.
 
 1133
 01:32:17,949 --> 01:32:19,869
@@ -4886,7 +4886,7 @@ I understand your concern, Your Majesty.
 1134
 01:32:19,951 --> 01:32:23,501
 Unfortunately, the Federation
-has possession ofour planet.
+has possession of our planet.
 
 1135
 01:32:25,248 --> 01:32:29,378
@@ -4916,7 +4916,7 @@ I will sign no treaty, Senator.
 1141
 01:32:43,600 --> 01:32:46,140
 My fate will be no different
-than that ofour people.
+than that of our people.
 
 1142
 01:32:46,227 --> 01:32:48,147
@@ -4938,7 +4938,7 @@ that the Republic no longer functions.
 
 1146
 01:32:57,322 --> 01:33:01,662
-I prayyou will bring
+I pray you will bring
 sanity and compassion back to the senate.
 
 1147
@@ -5004,7 +5004,7 @@ He is headstrong,
 
 1162
 01:34:03,388 --> 01:34:06,768
-and he has much to learn ofthe living Force,
+and he has much to learn of the living Force,
 but he is capable.
 
 1163
@@ -5043,7 +5043,7 @@ And draw out the queen's attacker.
 1171
 01:34:29,372 --> 01:34:33,792
 Go with the queen to Naboo
-and discover the identity ofthis dark warrior.
+and discover the identity of this dark warrior.
 
 1172
 01:34:35,045 --> 01:34:36,955
@@ -5051,7 +5051,7 @@ This is the clue we need...
 
 1173
 01:34:37,047 --> 01:34:39,337
-to unravel the mystery ofthe Sith.
+to unravel the mystery of the Sith.
 
 1174
 01:34:39,424 --> 01:34:42,264
@@ -5063,7 +5063,7 @@ It's not disrespect, Master. It's the truth.
 
 1176
 01:34:58,443 --> 01:35:00,363
-From your point ofview.
+From your point of view.
 
 1177
 01:35:00,445 --> 01:35:03,855
@@ -5080,7 +5080,7 @@ The council will decide Anakin's future.
 
 1180
 01:35:09,454 --> 01:35:12,374
-That should be enough foryou. Now get on board.
+That should be enough for you. Now get on board.
 
 1181
 01:35:18,213 --> 01:35:21,803
@@ -5148,7 +5148,7 @@ Without the midi-chlorians, life could not exist...
 
 1196
 01:36:07,720 --> 01:36:10,560
-and we would have no knowledge ofthe Force.
+and we would have no knowledge of the Force.
 
 1197
 01:36:10,640 --> 01:36:12,560
@@ -5156,7 +5156,7 @@ They continually speak to us,
 
 1198
 01:36:12,642 --> 01:36:15,352
-telling us the will ofthe Force.
+telling us the will of the Force.
 
 1199
 01:36:15,436 --> 01:36:17,596
@@ -5212,7 +5212,7 @@ of primitive life-forms.
 1211
 01:37:03,818 --> 01:37:06,948
 We are in complete control
-ofthe planet now.
+of the planet now.
 
 1212
 01:37:07,030 --> 01:37:12,910
@@ -5222,7 +5222,7 @@ things stay as they are.
 1213
 01:37:12,994 --> 01:37:16,914
 I am sending my apprentice,
-Darth Maul, tojoin you.
+Darth Maul, to join you.
 
 1214
 01:37:16,998 --> 01:37:18,918
@@ -5273,7 +5273,7 @@ We have no army.
 1225
 01:37:51,074 --> 01:37:54,664
 And I can only protect you.
-I can't fight a war foryou.
+I can't fight a war for you.
 
 1226
 01:37:54,744 --> 01:37:56,754
@@ -5346,7 +5346,7 @@ And you're a much wiser man than I am.
 
 1242
 01:39:02,437 --> 01:39:06,187
-I foresee you will become a greatJedi knight.
+I foresee you will become a great Jedi knight.
 
 1243
 01:39:19,162 --> 01:39:21,582
@@ -5380,11 +5380,11 @@ When in trouble, Gungans go to sacred place.
 
 1250
 01:39:39,015 --> 01:39:41,925
-Mesa showyou. Come on. Mesa showyou!
+Mesa show you. Come on. Mesa show you!
 
 1251
 01:39:59,452 --> 01:40:03,912
-Your Honor, Queen Amidala ofthe Naboo.
+Your Honor, Queen Amidala of the Naboo.
 
 1252
 01:40:09,087 --> 01:40:13,877
@@ -5401,7 +5401,7 @@ Who's da uss-en uthers?
 
 1255
 01:40:21,432 --> 01:40:23,732
-I am Queen Amidala ofthe Naboo.
+I am Queen Amidala of the Naboo.
 
 1256
 01:40:23,810 --> 01:40:26,980
@@ -5471,12 +5471,12 @@ that we have worked so hard to build.
 
 1271
 01:41:11,566 --> 01:41:14,896
-Ifwe do not act quickly,
+If we do not act quickly,
 all will be lost forever.
 
 1272
 01:41:14,986 --> 01:41:17,236
-I askyou to help us.
+I ask you to help us.
 
 1273
 01:41:17,321 --> 01:41:20,071
@@ -5617,7 +5617,7 @@ have formed an underground resistance movement.
 1306
 01:43:17,942 --> 01:43:20,532
 I brought back
-as many ofthe leaders as I could.
+as many of the leaders as I could.
 
 1307
 01:43:20,611 --> 01:43:25,281
@@ -5667,7 +5667,7 @@ they will be lost and confused.
 
 1317
 01:43:52,810 --> 01:43:54,730
-What do you think, MasterJedi?
+What do you think, Master Jedi?
 
 1318
 01:43:54,812 --> 01:43:56,982
@@ -5721,7 +5721,7 @@ There's an even bigger danger.
 
 1329
 01:44:27,011 --> 01:44:28,931
-Ifthe viceroy escapes, Your Highness,
+If the viceroy escapes, Your Highness,
 
 1330
 01:44:29,013 --> 01:44:31,263
@@ -5763,7 +5763,7 @@ Wipe them out.
 
 1339
 01:45:02,213 --> 01:45:04,173
-All ofthem.
+All of them.
 
 1340
 01:45:34,954 --> 01:45:36,914
@@ -5962,7 +5962,7 @@ The deflector shield is too strong.
 
 1386
 01:54:00,834 --> 01:54:03,794
-Whoa! R2, get us offthis autopilot.
+Whoa! R2, get us off this autopilot.
 
 1387
 01:54:03,879 --> 01:54:06,049
@@ -6123,7 +6123,7 @@ No giben up, General JarJar.
 
 1426
 02:00:24,384 --> 02:00:26,264
-Mesa tink ofsomething.
+Mesa tink of something.
 
 1427
 02:00:26,344 --> 02:00:28,804
@@ -6141,7 +6141,7 @@ is at an end, Your Highness.
 
 1430
 02:00:42,694 --> 02:00:46,664
-Time foryou to sign the treaty
+Time for you to sign the treaty
 and end this pointless debate in the senate.
 
 1431
@@ -6219,11 +6219,11 @@ We didn't hit it.
 
 1448
 02:03:10,884 --> 02:03:14,434
-- Now, this is Podracing.
+- Now, this is Pod-racing.
 
 1449
 02:03:14,512 --> 02:03:18,312
-- Look, one ofours, out ofthe main hold!
+- Look, one of ours, out of the main hold!
 - Whoo!
 
 1450
@@ -6292,12 +6292,12 @@ and explain all this.
 
 1465
 02:05:38,197 --> 02:05:41,487
-I thinkyou can kiss
+I think you can kiss
 your trade franchise good-bye.
 
 1466
 02:05:55,256 --> 02:05:58,796
-We are indebted to you foryour bravery,
+We are indebted to you for your bravery,
 Obi-Wan Kenobi.
 
 1467
@@ -6322,12 +6322,12 @@ It's you who should be congratulated.
 
 1472
 02:06:20,114 --> 02:06:24,084
-Togetherwe shall bring
+Together we shall bring
 peace and prosperity to the Republic.
 
 1473
 02:06:28,456 --> 02:06:33,536
-Confer on you the level ofJedi knight
+Confer on you the level of Jedi knight
 the council does.
 
 1474
@@ -6357,7 +6357,7 @@ grave danger I fear in his training.
 
 1480
 02:06:53,022 --> 02:06:56,612
-MasterYoda, I gave Qui-Gon my word.
+Master Yoda, I gave Qui-Gon my word.
 
 1481
 02:06:56,693 --> 02:06:58,613
@@ -6369,7 +6369,7 @@ Ohh!
 
 1483
 02:07:01,197 --> 02:07:04,117
-Without the approval ofthe council, if I must.
+Without the approval of the council, if I must.
 
 1484
 02:07:04,200 --> 02:07:06,620
@@ -6385,7 +6385,7 @@ Agree with you the council does.
 
 1487
 02:07:15,044 --> 02:07:18,384
-Your apprentice Skywalkerwill be.
+Your apprentice Skywalker will be.
 
 1488
 02:07:45,450 --> 02:07:47,950
