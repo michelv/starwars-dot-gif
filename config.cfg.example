@@ -1,8 +1,13 @@
 [general]
 vlc_path: /path/to/vlc
-ep4_path: /path/to/episode_4
-ep5_path: /path/to/episode_5
-ep6_path: /path/to/episode_6
+[video]
+ep4: /path/to/episode_4
+ep5: /path/to/episode_5
+ep6: /path/to/episode_6
+[srt]
+ep4: subs/IV-A.New.Hope[1977]DvDrip-aXXo.srt
+ep5: subs/V-The.Empire.Strikes.Back[1980]DvDrip-aXXo.srt
+ep6: subs/VI-Return.Of.The.Jedi[1983]DvDrip-aXXo.srt
 [imgur]
 client_id: imgur_client_id
 api_key: imgur_client_secret

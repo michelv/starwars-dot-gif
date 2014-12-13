@@ -10,10 +10,6 @@ import pysrt
 import random
 import subprocess
 
-sub_files = {   4: 'subs/IV-A.New.Hope[1977]DvDrip-aXXo.srt',
-				5: 'subs/V-The.Empire.Strikes.Back[1980]DvDrip-aXXo.srt',
-				6: 'subs/VI-Return.Of.The.Jedi[1983]DvDrip-aXXo.srt' }
-
 def striptags(data):
 	# I'm a bad person, don't ever do this.
 	# Only okay, because of how basic the tags are.
@@ -30,15 +26,20 @@ def drawText(draw, x, y, text, font):
 	# white text
 	draw.text((x, y),text,(255,255,255),font=font)
 
-def makeGif(source, sub_index, rand=False, no_quote=False, custom_subtitle="", frames=0):
+def getConfig():
 	config = ConfigParser.ConfigParser()
 	config.read("config.cfg")
 
 	config.sections()
+	return config
+
+def makeGif(source, sub_index, rand=False, no_quote=False, custom_subtitle="", frames=0):
+	config = getConfig()
 
 	vlc_path = config.get("general", "vlc_path")
 
-	video_path = config.get("general", "ep"+str(source)+"_path")
+	video_path = config.get("video", source)
+	srt_path = config.get("srt", source)
 	screencap_path = os.path.join(os.path.dirname(__file__), "screencaps")
 
 	# delete the contents of the screencap path
@@ -47,7 +48,7 @@ def makeGif(source, sub_index, rand=False, no_quote=False, custom_subtitle="", f
 		os.remove(os.path.join(screencap_path, file_name))
 
 	# read in the quotes for the selected movie
-	subs = pysrt.open(sub_files[source])
+	subs = pysrt.open(srt_path)
 
 	if rand:
 		sub_index = random.randint(0, len(subs)-1)
@@ -151,6 +152,8 @@ def makeGif(source, sub_index, rand=False, no_quote=False, custom_subtitle="", f
 
 
 if __name__ == '__main__':
+	config = getConfig()
+
 	# by default we create a random gif
-	makeGif(random.randint(4,6), 0, rand=True, no_quote=bool(random.getrandbits(1)))
+	makeGif(random.choice(config.options('video')), 0, rand=True, no_quote=bool(random.getrandbits(1)))
 
